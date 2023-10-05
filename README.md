@@ -1,4 +1,4 @@
-# generator-password
+# Generator-PassWord
 
 [Generator Password] est un programme python qui permet de générer des mots de passes. Le programme permet aussi à l'utilisateur de choisir les charactéres qu'ils souhaite voir dans son mot de passe c'est s'il souhaite disposer de chiffre, de lettre ou de carratères special dans son mot de passe. Tutoriel disponible sur la chaîne YouTube de PDG TUTORIEL.
 
